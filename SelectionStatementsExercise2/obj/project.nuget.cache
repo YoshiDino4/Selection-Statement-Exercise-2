@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "QtYDNCpBFoQH53Fq6ZqlasZYBykGQu3MSrz0bQSo7Qmxx/AGCzgcOkz7WXxyRznzeeQcg0eUIbeOK0FYPQJ4IA==",
+  "dgSpecHash": "Hf/Yu1JCXHXpV4BmdYvKxWYNy62bVV9ff7Gbn0gE9G21d1gL+/UxTUb0wlY0HRrWoZ1kJSbZyBMpJI5hfrTo7g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\new\\SelectionStatementsExercise2\\SelectionStatementsExercise2\\SelectionStatementsExercise2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ybaja\\Downloads\\OneDrive\\Desktop\\repos\\Selection-Statement-Exercise-2\\SelectionStatementsExercise2\\SelectionStatementsExercise2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.31\\microsoft.netcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.31\\microsoft.windowsdesktop.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.31\\microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "C:\\Users\\ybaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.31\\microsoft.netcore.app.host.win-x64.6.0.31.nupkg.sha512"
+  ],
   "logs": []
 }
